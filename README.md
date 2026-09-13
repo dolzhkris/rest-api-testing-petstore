@@ -10,7 +10,7 @@ The following HTTP methods are used:
 * DELETE - delete a user.
   
 The project uses the Python requests library to send HTTP requests and process API responses.
-The project was developed as part of university work during the third year of university.
+This project was developed as a university coursework project during the second year of university.
 
 ## Key Variables
 
