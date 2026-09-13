@@ -8,8 +8,8 @@ The following HTTP methods are used:
 * GET - retrieve user information;
 * PUT - update user information;
 * DELETE - delete a user.
+  
 The project uses the Python requests library to send HTTP requests and process API responses.
-
 The project was developed as part of university work during the third year of university.
 
 ## Key Variables
